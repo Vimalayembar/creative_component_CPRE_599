@@ -1,0 +1,9 @@
+{
+  "label": "original_vs_obfuscated",
+  "base": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js",
+  "metrics": {
+    "edgeJaccard": 0.14285714285714285,
+    "nodeVectorSim": 0,
+    "composite": 0.09999999999999999
+  }
+}

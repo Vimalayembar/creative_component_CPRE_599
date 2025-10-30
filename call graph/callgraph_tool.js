@@ -366,6 +366,55 @@ function compareGraphs(graphA, graphB) {
   return { edgeJaccard: edgeJ, nodeVectorSim: vecSim, composite };
 }
 
+// Normalized basename: strip .obf/.deobf before extension
+function normalizedBase(filePath) {
+  const base = path.basename(filePath || '');
+  return base.replace(/\.deobf(?=\.js$)/, '').replace(/\.obf(?=\.js$)/, '');
+}
+
+function subgraphByBase(graph, base) {
+  const nodes = (graph.nodes || []).filter(n => normalizedBase(n.file) === base);
+  const nodeIds = new Set(nodes.map(n => n.id));
+  const edges = (graph.edges || []).filter(e => nodeIds.has(e.from));
+  return { nodes, edges, path: graph.path };
+}
+
+function compareGraphsByBase(graphA, graphB, base) {
+  const gA = subgraphByBase(graphA, base);
+  const gB = subgraphByBase(graphB, base);
+  const eA = edgesSignature(gA);
+  const eB = edgesSignature(gB);
+  const edgeJ = jaccardIndex(eA, eB);
+
+  // Node vectors limited to this base
+  const aIdx = readJsonSync(path.join(path.dirname(graphA.path), 'functions_index.json'), []);
+  const bIdx = readJsonSync(path.join(path.dirname(graphB.path), 'functions_index.json'), []);
+  function keyFor(item) {
+    const fn = item.fn;
+    const baseName = path.basename(fn.meta.file).replace(/\.deobf(?=\.js$)/, '').replace(/\.obf(?=\.js$)/, '');
+    return baseName === base ? `${path.basename(fn.meta.file)}::${fn.meta.normName}::${fn.meta.startLine || 0}` : null;
+  }
+  const mapA = new Map();
+  for (const it of aIdx) {
+    const k = keyFor(it);
+    if (k) mapA.set(k, it);
+  }
+  const mapB = new Map();
+  for (const it of bIdx) {
+    const k = keyFor(it);
+    if (k) mapB.set(k, it);
+  }
+  const common = [...mapA.keys()].filter(k => mapB.has(k));
+  let vecSim = 0;
+  if (common.length > 0) {
+    let sum = 0;
+    for (const k of common) sum += cosineSimilarity(functionVector(mapA.get(k).fn), functionVector(mapB.get(k).fn));
+    vecSim = sum / common.length;
+  }
+  const composite = 0.7 * edgeJ + 0.3 * vecSim;
+  return { edgeJaccard: edgeJ, nodeVectorSim: vecSim, composite };
+}
+
 function writeFunctionsIndex(outDir) {
   const funcDir = path.join(outDir, 'functions');
   if (!fs.existsSync(funcDir)) return;
@@ -388,10 +437,20 @@ function compareFolders(builtA, builtB, outRoot, label) {
   if (!gA || !gB) return null;
   gA.path = graphPathA;
   gB.path = graphPathB;
-  const metrics = compareGraphs(gA, gB);
-  const outFile = path.join(outRoot, 'compare', `${label}.json`);
-  writeJsonSync(outFile, { label, metrics });
-  return { outFile, metrics };
+
+  // Build set of common normalized basenames
+  const basesA = new Set((gA.nodes || []).map(n => normalizedBase(n.file)));
+  const basesB = new Set((gB.nodes || []).map(n => normalizedBase(n.file)));
+  const common = [...basesA].filter(b => basesB.has(b));
+
+  const results = [];
+  for (const base of common) {
+    const metrics = compareGraphsByBase(gA, gB, base);
+    const outFile = path.join(outRoot, 'compare', `${label}__${base}.json`);
+    writeJsonSync(outFile, { label, base, metrics });
+    results.push({ base, outFile, metrics });
+  }
+  return results;
 }
 
 // ------------------------------

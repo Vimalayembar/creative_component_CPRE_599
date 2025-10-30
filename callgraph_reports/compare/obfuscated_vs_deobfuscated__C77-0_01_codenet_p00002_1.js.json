@@ -1,0 +1,9 @@
+{
+  "label": "obfuscated_vs_deobfuscated",
+  "base": "C77-0_01_codenet_p00002_1.js",
+  "metrics": {
+    "edgeJaccard": 0.09375,
+    "nodeVectorSim": 0,
+    "composite": 0.06562499999999999
+  }
+}

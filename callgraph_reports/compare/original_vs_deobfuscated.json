@@ -1,8 +1,0 @@
-{
-  "label": "original_vs_deobfuscated",
-  "metrics": {
-    "edgeJaccard": 0.8450704225352113,
-    "nodeVectorSim": 0.8026315789473684,
-    "composite": 0.8323387694588584
-  }
-}

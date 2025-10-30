@@ -1,0 +1,9 @@
+{
+  "label": "obfuscated_vs_deobfuscated",
+  "base": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+  "metrics": {
+    "edgeJaccard": 0.17647058823529413,
+    "nodeVectorSim": 0,
+    "composite": 0.12352941176470589
+  }
+}

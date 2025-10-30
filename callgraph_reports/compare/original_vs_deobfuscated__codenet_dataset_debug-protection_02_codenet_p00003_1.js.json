@@ -1,0 +1,9 @@
+{
+  "label": "original_vs_deobfuscated",
+  "base": "codenet_dataset_debug-protection_02_codenet_p00003_1.js",
+  "metrics": {
+    "edgeJaccard": 0.6923076923076923,
+    "nodeVectorSim": 0,
+    "composite": 0.48461538461538456
+  }
+}
