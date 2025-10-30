@@ -140,12 +140,25 @@ class TraceInstrumenter:
             if os.path.exists(out_path):
                 os.unlink(out_path)
 
-    def execute_instrumented_code_and_collect_traces(self, instrumented_code: str, input_data: str = "", timeout: int = 5) -> List[Dict]:
-        fd, path = tempfile.mkstemp(suffix=".js")
+    def execute_instrumented_code_and_collect_traces(self, instrumented_code: str, input_data: str = "", timeout: int = 12) -> List[Dict]:
+        """
+        Write instrumented code to a temp file, append an auto-wrap call to catch object-attached functions,
+        run node, parse stderr lines for JSON arrays, and return the merged trace (list of dicts).
+        """
+        # Append auto-wrap snippet so functions on module.exports/globalThis get wrapped at runtime
+        auto_wrap_snippet = (
+            "\n// auto-wrap exported functions to catch object-attached callbacks\n"
+            "try { if (globalThis && globalThis.__wrapObjectFunctions) "
+            "globalThis.__wrapObjectFunctions((typeof module!=='undefined' && module.exports) ? module.exports : globalThis, 'root'); } catch (e) {}\n"
+        )
+        instrumented_code_to_run = instrumented_code + auto_wrap_snippet
+
+        fd, path = tempfile.mkstemp(suffix=".js", text=True)
         os.close(fd)
         try:
             with open(path, 'w', encoding='utf-8') as f:
-                f.write(instrumented_code)
+                f.write(instrumented_code_to_run)
+
             result = subprocess.run(
                 ["node", path],
                 input=input_data,
@@ -153,10 +166,13 @@ class TraceInstrumenter:
                 text=True,
                 timeout=timeout
             )
+
+            # parse all JSON lists from stderr
             parsed_lists = parse_json_lines_from_stderr(result.stderr)
-            return merge_traces(parsed_lists)
+            merged = merge_traces(parsed_lists)
+            return merged
         except subprocess.TimeoutExpired:
-            print("    Execution timed out.")
+            print(f"    Execution timed out after {timeout}s.")
             return []
         except Exception as e:
             print(f"    Execution error: {e}")
@@ -164,6 +180,7 @@ class TraceInstrumenter:
         finally:
             if os.path.exists(path):
                 os.unlink(path)
+
 
 # ---------- Analyzer ----------
 
@@ -243,7 +260,7 @@ def main():
     print("Enhanced AST-based JS Trace Analysis")
     print("=" * 70)
 
-    if not Path("instrument.js").exists():
+    if not Path("instrument1.js").exists():
         print("Error: instrument.js not found in current directory.")
         return
 
