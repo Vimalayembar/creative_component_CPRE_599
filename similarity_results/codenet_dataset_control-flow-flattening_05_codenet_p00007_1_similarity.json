@@ -1,0 +1,11 @@
+{
+  "file": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1",
+  "traces": {
+    "original": 20,
+    "obfuscated": 30,
+    "deobfuscated": 46
+  },
+  "original_vs_obfuscated": 0.5333,
+  "obfuscated_vs_deobfuscated": 0.413,
+  "deobfuscated_vs_original": 0.4348
+}

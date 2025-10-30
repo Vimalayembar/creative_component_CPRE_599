@@ -1,0 +1,11 @@
+{
+  "file": "codenet_dataset_self-defending_01_codenet_p00002_1",
+  "traces": {
+    "original": 16,
+    "obfuscated": 0,
+    "deobfuscated": 16
+  },
+  "original_vs_obfuscated": 0.0,
+  "obfuscated_vs_deobfuscated": 0.0,
+  "deobfuscated_vs_original": 1.0
+}

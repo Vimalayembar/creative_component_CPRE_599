@@ -1,0 +1,11 @@
+{
+  "file": "codenet_dataset_code-compact_01_codenet_p00002_1",
+  "traces": {
+    "original": 16,
+    "obfuscated": 16,
+    "deobfuscated": 16
+  },
+  "original_vs_obfuscated": 0.875,
+  "obfuscated_vs_deobfuscated": 0.875,
+  "deobfuscated_vs_original": 1.0
+}

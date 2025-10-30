@@ -1,0 +1,11 @@
+{
+  "file": "codenet_dataset_deadcode-injection_04_codenet_p00006_1",
+  "traces": {
+    "original": 0,
+    "obfuscated": 0,
+    "deobfuscated": 0
+  },
+  "original_vs_obfuscated": 1.0,
+  "obfuscated_vs_deobfuscated": 1.0,
+  "deobfuscated_vs_original": 1.0
+}

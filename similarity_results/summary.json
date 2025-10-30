@@ -1,0 +1,341 @@
+{
+  "timestamp": "2025-10-29 14:36:01",
+  "total_processed": 30,
+  "results": [
+    {
+      "file": "C77-0_01_codenet_p00002_1",
+      "traces": {
+        "original": 16,
+        "obfuscated": 0,
+        "deobfuscated": 16
+      },
+      "original_vs_obfuscated": 0.0,
+      "obfuscated_vs_deobfuscated": 0.0,
+      "deobfuscated_vs_original": 0.875
+    },
+    {
+      "file": "C77-0_02_codenet_p00003_1",
+      "traces": {
+        "original": 30,
+        "obfuscated": 0,
+        "deobfuscated": 12
+      },
+      "original_vs_obfuscated": 0.0,
+      "obfuscated_vs_deobfuscated": 0.0,
+      "deobfuscated_vs_original": 0.4
+    },
+    {
+      "file": "C77-0_03_codenet_p00005_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "C77-0_04_codenet_p00006_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "C77-0_05_codenet_p00007_1",
+      "traces": {
+        "original": 20,
+        "obfuscated": 0,
+        "deobfuscated": 26
+      },
+      "original_vs_obfuscated": 0.0,
+      "obfuscated_vs_deobfuscated": 0.0,
+      "deobfuscated_vs_original": 0.6154
+    },
+    {
+      "file": "codenet_dataset_code-compact_01_codenet_p00002_1",
+      "traces": {
+        "original": 16,
+        "obfuscated": 16,
+        "deobfuscated": 16
+      },
+      "original_vs_obfuscated": 0.875,
+      "obfuscated_vs_deobfuscated": 0.875,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_code-compact_02_codenet_p00003_1",
+      "traces": {
+        "original": 30,
+        "obfuscated": 30,
+        "deobfuscated": 28
+      },
+      "original_vs_obfuscated": 0.9333,
+      "obfuscated_vs_deobfuscated": 0.8667,
+      "deobfuscated_vs_original": 0.9333
+    },
+    {
+      "file": "codenet_dataset_code-compact_03_codenet_p00005_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_code-compact_04_codenet_p00006_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_code-compact_05_codenet_p00007_1",
+      "traces": {
+        "original": 20,
+        "obfuscated": 20,
+        "deobfuscated": 46
+      },
+      "original_vs_obfuscated": 0.8,
+      "obfuscated_vs_deobfuscated": 0.3478,
+      "deobfuscated_vs_original": 0.4348
+    },
+    {
+      "file": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1",
+      "traces": {
+        "original": 16,
+        "obfuscated": 24,
+        "deobfuscated": 18
+      },
+      "original_vs_obfuscated": 0.5833,
+      "obfuscated_vs_deobfuscated": 0.5833,
+      "deobfuscated_vs_original": 0.7778
+    },
+    {
+      "file": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1",
+      "traces": {
+        "original": 30,
+        "obfuscated": 58,
+        "deobfuscated": 12
+      },
+      "original_vs_obfuscated": 0.4828,
+      "obfuscated_vs_deobfuscated": 0.1724,
+      "deobfuscated_vs_original": 0.4
+    },
+    {
+      "file": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1",
+      "traces": {
+        "original": 20,
+        "obfuscated": 30,
+        "deobfuscated": 46
+      },
+      "original_vs_obfuscated": 0.5333,
+      "obfuscated_vs_deobfuscated": 0.413,
+      "deobfuscated_vs_original": 0.4348
+    },
+    {
+      "file": "codenet_dataset_deadcode-injection_01_codenet_p00002_1",
+      "traces": {
+        "original": 16,
+        "obfuscated": 120,
+        "deobfuscated": 18
+      },
+      "original_vs_obfuscated": 0.1707,
+      "obfuscated_vs_deobfuscated": 0.1951,
+      "deobfuscated_vs_original": 0.8889
+    },
+    {
+      "file": "codenet_dataset_deadcode-injection_02_codenet_p00003_1",
+      "traces": {
+        "original": 30,
+        "obfuscated": 150,
+        "deobfuscated": 26
+      },
+      "original_vs_obfuscated": 0.2745,
+      "obfuscated_vs_deobfuscated": 0.2353,
+      "deobfuscated_vs_original": 0.8667
+    },
+    {
+      "file": "codenet_dataset_deadcode-injection_03_codenet_p00005_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_deadcode-injection_04_codenet_p00006_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_deadcode-injection_05_codenet_p00007_1",
+      "traces": {
+        "original": 20,
+        "obfuscated": 140,
+        "deobfuscated": 46
+      },
+      "original_vs_obfuscated": 0.1739,
+      "obfuscated_vs_deobfuscated": 0.4457,
+      "deobfuscated_vs_original": 0.4348
+    },
+    {
+      "file": "codenet_dataset_debug-protection_01_codenet_p00002_1",
+      "traces": {
+        "original": 16,
+        "obfuscated": 71656,
+        "deobfuscated": 16
+      },
+      "original_vs_obfuscated": 0.0002,
+      "obfuscated_vs_deobfuscated": 0.0002,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_debug-protection_02_codenet_p00003_1",
+      "traces": {
+        "original": 30,
+        "obfuscated": 71670,
+        "deobfuscated": 10
+      },
+      "original_vs_obfuscated": 0.0004,
+      "obfuscated_vs_deobfuscated": 0.0001,
+      "deobfuscated_vs_original": 0.3333
+    },
+    {
+      "file": "codenet_dataset_debug-protection_03_codenet_p00005_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_debug-protection_04_codenet_p00006_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_debug-protection_05_codenet_p00007_1",
+      "traces": {
+        "original": 20,
+        "obfuscated": 71660,
+        "deobfuscated": 46
+      },
+      "original_vs_obfuscated": 0.0002,
+      "obfuscated_vs_deobfuscated": 0.0006,
+      "deobfuscated_vs_original": 0.4348
+    },
+    {
+      "file": "codenet_dataset_self-defending_01_codenet_p00002_1",
+      "traces": {
+        "original": 16,
+        "obfuscated": 0,
+        "deobfuscated": 16
+      },
+      "original_vs_obfuscated": 0.0,
+      "obfuscated_vs_deobfuscated": 0.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_self-defending_02_codenet_p00003_1",
+      "traces": {
+        "original": 30,
+        "obfuscated": 0,
+        "deobfuscated": 24
+      },
+      "original_vs_obfuscated": 0.0,
+      "obfuscated_vs_deobfuscated": 0.0,
+      "deobfuscated_vs_original": 0.8
+    },
+    {
+      "file": "codenet_dataset_self-defending_03_codenet_p00005_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_self-defending_04_codenet_p00006_1",
+      "traces": {
+        "original": 0,
+        "obfuscated": 0,
+        "deobfuscated": 0
+      },
+      "original_vs_obfuscated": 1.0,
+      "obfuscated_vs_deobfuscated": 1.0,
+      "deobfuscated_vs_original": 1.0
+    },
+    {
+      "file": "codenet_dataset_self-defending_05_codenet_p00007_1",
+      "traces": {
+        "original": 20,
+        "obfuscated": 0,
+        "deobfuscated": 48
+      },
+      "original_vs_obfuscated": 0.0,
+      "obfuscated_vs_deobfuscated": 0.0,
+      "deobfuscated_vs_original": 0.4167
+    }
+  ],
+  "statistics": {
+    "average_similarity": 0.6334,
+    "min_similarity": 0.0,
+    "max_similarity": 1.0
+  }
+}

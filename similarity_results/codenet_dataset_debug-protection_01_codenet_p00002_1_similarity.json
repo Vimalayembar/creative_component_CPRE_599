@@ -1,0 +1,11 @@
+{
+  "file": "codenet_dataset_debug-protection_01_codenet_p00002_1",
+  "traces": {
+    "original": 16,
+    "obfuscated": 71656,
+    "deobfuscated": 16
+  },
+  "original_vs_obfuscated": 0.0002,
+  "obfuscated_vs_deobfuscated": 0.0002,
+  "deobfuscated_vs_original": 1.0
+}
