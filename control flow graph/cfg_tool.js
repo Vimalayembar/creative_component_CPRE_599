@@ -478,24 +478,53 @@ function aggregateReport(pairs) {
 function compareFolders(builtA, builtB, outRoot, label) {
   const A = readJsonSync(path.join(builtA.outDir, 'fingerprints.json'), []);
   const B = readJsonSync(path.join(builtB.outDir, 'fingerprints.json'), []);
-  const idToFullA = new Map();
-  const idToFullB = new Map();
+
+  // Normalize a file basename by stripping obf/deobf infixes before extension
+  function normalizedBase(filePath) {
+    const base = path.basename(filePath || '');
+    return base.replace(/\.deobf(?=\.js$)/, '').replace(/\.obf(?=\.js$)/, '');
+  }
+
+  // Group functions by normalized basename to ensure file-scoped comparisons only
+  function groupByBase(arr) {
+    const map = new Map();
+    for (const item of arr) {
+      const base = normalizedBase((item.meta && item.meta.file) || '');
+      if (!map.has(base)) map.set(base, []);
+      map.get(base).push(item);
+    }
+    return map;
+  }
+
   // Load full function JSON lazily only when necessary
   function loadFull(dir, item) {
     const funcPath = path.join(dir, 'functions', `${item.id}.json`);
     return readJsonSync(funcPath, null);
   }
-  const pairs = greedyMatch(A, B, 3).map(({ a, b, score }) => {
-    const fullA = loadFull(builtA.outDir, a);
-    const fullB = loadFull(builtB.outDir, b);
-    const metrics = compareFunctionPair(fullA, fullB);
-    return {
-      a: { id: a.id, name: fullA.functionName, file: fullA.file, startLine: fullA.startLine },
-      b: { id: b.id, name: fullB.functionName, file: fullB.file, startLine: fullB.startLine },
-      metrics,
-      score: metrics.composite
-    };
-  });
+
+  const byBaseA = groupByBase(A);
+  const byBaseB = groupByBase(B);
+  const commonBases = [...byBaseA.keys()].filter(k => byBaseB.has(k));
+
+  const pairs = [];
+  for (const base of commonBases) {
+    const subsetA = byBaseA.get(base);
+    const subsetB = byBaseB.get(base);
+    const localPairs = greedyMatch(subsetA, subsetB, 3).map(({ a, b, score }) => {
+      const fullA = loadFull(builtA.outDir, a);
+      const fullB = loadFull(builtB.outDir, b);
+      const metrics = compareFunctionPair(fullA, fullB);
+      return {
+        a: { id: a.id, name: fullA.functionName, file: fullA.file, startLine: fullA.startLine },
+        b: { id: b.id, name: fullB.functionName, file: fullB.file, startLine: fullB.startLine },
+        metrics,
+        score: metrics.composite,
+        fileBase: base
+      };
+    });
+    pairs.push(...localPairs);
+  }
+
   const agg = aggregateReport(pairs);
   const outFile = path.join(outRoot, 'compare', `${label}.json`);
   writeJsonSync(outFile, { label, pairs, aggregate: agg });

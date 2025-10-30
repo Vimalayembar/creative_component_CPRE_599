@@ -4,12 +4,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "cfg": "node cfg_tool.js",
-    "cfg:build": "node cfg_tool.js build",
-    "cfg:compare": "node cfg_tool.js compare",
-    "cg": "node callgraph_tool.js",
-    "cg:build": "node callgraph_tool.js build",
-    "cg:compare": "node callgraph_tool.js compare"
+    "cfg": "node \"control flow graph/cfg_tool.js\"",
+    "cfg:build": "node \"control flow graph/cfg_tool.js\" build",
+    "cfg:compare": "node \"control flow graph/cfg_tool.js\" compare",
+    "cg": "node \"call graph/callgraph_tool.js\"",
+    "cg:build": "node \"call graph/callgraph_tool.js\" build",
+    "cg:compare": "node \"call graph/callgraph_tool.js\" compare"
   },
   "dependencies": {
     "escodegen": "^2.1.0",
