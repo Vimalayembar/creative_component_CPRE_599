@@ -1,0 +1,63 @@
+{
+  "id": "codenet_dataset_debug-protection_04_codenet_p00006_1.obf.js__(anonymous)__L20",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_debug-protection_04_codenet_p00006_1.obf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 20,
+    "params": 0,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "845a4bae"
+}

@@ -1,0 +1,93 @@
+{
+  "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.obf.js__(anonymous)__L29",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.obf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 29,
+    "params": 1,
+    "stmtCount": 4,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "ed960952"
+}

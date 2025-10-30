@@ -1,0 +1,113 @@
+{
+  "id": "codenet_dataset_self-defending_03_codenet_p00005_1.obf.js__(program)__L1",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_self-defending_03_codenet_p00005_1.obf.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 7,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x3b95bd",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x20222a",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:require",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:gcd",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:lcm",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:gcd",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "4a6c4a6b"
+}

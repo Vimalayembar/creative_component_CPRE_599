@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js__ID__L13",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 13,
+    "params": 2,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "98ee3a0b"
+}

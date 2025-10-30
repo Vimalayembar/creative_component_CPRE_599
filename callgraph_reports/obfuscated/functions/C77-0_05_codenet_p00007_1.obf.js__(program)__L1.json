@@ -1,0 +1,993 @@
+{
+  "id": "C77-0_05_codenet_p00007_1.obf.js__(program)__L1",
+  "meta": {
+    "file": "obfuscated\\C77-0_05_codenet_p00007_1.obf.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 16,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x4cb26d",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0xb228de",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5c36",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5bb3",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "new",
+      "callee": "id:RegExp",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "new",
+      "callee": "id:RegExp",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x3e50eb",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5c36",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5a7efa",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5a7efa",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5a7efa",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5a7efa",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5a7efa",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5a7efa",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x5a7efa",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:OBF_NAME",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "56a21bd1"
+}

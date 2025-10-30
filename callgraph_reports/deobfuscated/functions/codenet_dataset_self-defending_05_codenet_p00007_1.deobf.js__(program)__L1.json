@@ -1,0 +1,68 @@
+{
+  "id": "codenet_dataset_self-defending_05_codenet_p00007_1.deobf.js__(program)__L1",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_self-defending_05_codenet_p00007_1.deobf.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 7,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:require",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:resume",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:setEncoding",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:on",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:on",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:main",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:trim",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ceil",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:log",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "c1247617"
+}

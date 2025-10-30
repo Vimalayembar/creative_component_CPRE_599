@@ -1,0 +1,38 @@
+{
+  "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__(anonymous)__L7",
+  "meta": {
+    "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 7,
+    "params": 1,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "5f23038c"
+}

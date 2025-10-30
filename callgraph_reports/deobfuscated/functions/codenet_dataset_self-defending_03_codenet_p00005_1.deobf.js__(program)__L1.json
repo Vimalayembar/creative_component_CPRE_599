@@ -1,0 +1,73 @@
+{
+  "id": "codenet_dataset_self-defending_03_codenet_p00005_1.deobf.js__(program)__L1",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_self-defending_03_codenet_p00005_1.deobf.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 5,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:require",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:split",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:trim",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:readFileSync",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:forEach",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:map",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:split",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:log",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:gcd",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:lcm",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:gcd",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "6ed61b2d"
+}

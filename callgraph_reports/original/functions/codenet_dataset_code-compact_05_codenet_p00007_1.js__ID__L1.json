@@ -1,0 +1,33 @@
+{
+  "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__ID__L1",
+  "meta": {
+    "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "76da55ea"
+}

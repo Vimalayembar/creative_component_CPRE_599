@@ -1,0 +1,38 @@
+{
+  "id": "C77-0_01_codenet_p00002_1.js__ID__L6",
+  "meta": {
+    "file": "original\\C77-0_01_codenet_p00002_1.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 6,
+    "params": 1,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "40e69b2b"
+}

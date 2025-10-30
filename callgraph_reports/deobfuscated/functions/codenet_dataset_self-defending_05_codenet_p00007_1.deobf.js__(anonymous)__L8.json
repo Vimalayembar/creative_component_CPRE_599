@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_self-defending_05_codenet_p00007_1.deobf.js__(anonymous)__L8",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_self-defending_05_codenet_p00007_1.deobf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 8,
+    "params": 1,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "56e16d38"
+}

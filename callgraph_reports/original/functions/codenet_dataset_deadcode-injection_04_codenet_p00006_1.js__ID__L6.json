@@ -1,0 +1,33 @@
+{
+  "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.js__ID__L6",
+  "meta": {
+    "file": "original\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 6,
+    "params": 1,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "d9b2b5f0"
+}

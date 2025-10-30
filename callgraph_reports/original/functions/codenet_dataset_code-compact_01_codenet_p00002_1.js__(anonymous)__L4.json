@@ -1,0 +1,63 @@
+{
+  "id": "codenet_dataset_code-compact_01_codenet_p00002_1.js__(anonymous)__L4",
+  "meta": {
+    "file": "original\\codenet_dataset_code-compact_01_codenet_p00002_1.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 4,
+    "params": 1,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "df75ffef"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__ID__L26",
+  "meta": {
+    "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 26,
+    "params": 2,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "14c9584f"
+}

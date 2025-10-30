@@ -1,0 +1,17 @@
+{
+  "id": "C77-0_03_codenet_p00005_1.deobf.js__ID__L10",
+  "meta": {
+    "file": "deobfuscated\\C77-0_03_codenet_p00005_1.deobf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 10,
+    "params": 2,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "86104b46"
+}

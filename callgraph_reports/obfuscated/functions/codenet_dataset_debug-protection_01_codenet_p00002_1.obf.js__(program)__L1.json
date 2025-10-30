@@ -1,0 +1,178 @@
+{
+  "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js__(program)__L1",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 6,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x132bad",
+      "callType": "direct"
+    },
+    {
+      "kind": "new",
+      "callee": "id:RegExp",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:RegExp",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x4a791d",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:result",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x4a791d",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:parseInt",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:debuggerProtection",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:debuggerProtection",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "ad399aa0"
+}

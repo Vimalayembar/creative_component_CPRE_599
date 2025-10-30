@@ -1,0 +1,23 @@
+{
+  "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.obf.js__ID__L13",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.obf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 13,
+    "params": 0,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "c0f61193"
+}

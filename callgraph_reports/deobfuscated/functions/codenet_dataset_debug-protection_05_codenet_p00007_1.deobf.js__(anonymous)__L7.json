@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.deobf.js__(anonymous)__L7",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_debug-protection_05_codenet_p00007_1.deobf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 7,
+    "params": 1,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "bedae421"
+}

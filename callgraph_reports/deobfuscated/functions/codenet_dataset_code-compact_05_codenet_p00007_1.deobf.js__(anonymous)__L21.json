@@ -1,0 +1,23 @@
+{
+  "id": "codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js__(anonymous)__L21",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 21,
+    "params": 0,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "af5faf62"
+}

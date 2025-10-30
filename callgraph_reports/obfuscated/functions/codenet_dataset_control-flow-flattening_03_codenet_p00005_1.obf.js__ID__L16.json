@@ -1,0 +1,33 @@
+{
+  "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.obf.js__ID__L16",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.obf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 16,
+    "params": 2,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "2ba6d8a6"
+}

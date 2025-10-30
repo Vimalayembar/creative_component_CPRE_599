@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_code-compact_02_codenet_p00003_1.deobf.js__(anonymous)__L15",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_code-compact_02_codenet_p00003_1.deobf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 15,
+    "params": 2,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "f9117632"
+}

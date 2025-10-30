@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(anonymous)__L14",
+  "meta": {
+    "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 14,
+    "params": 2,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "7c4c0dfb"
+}

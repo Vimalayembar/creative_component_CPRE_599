@@ -1,0 +1,17 @@
+{
+  "id": "C77-0_03_codenet_p00005_1.obf.js__(anonymous)__L1",
+  "meta": {
+    "file": "obfuscated\\C77-0_03_codenet_p00005_1.obf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "ac7f904e"
+}

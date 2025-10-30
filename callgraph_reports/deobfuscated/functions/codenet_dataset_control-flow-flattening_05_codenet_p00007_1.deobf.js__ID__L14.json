@@ -1,0 +1,38 @@
+{
+  "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js__ID__L14",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 14,
+    "params": 0,
+    "stmtCount": 4,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "2ae028b0"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.obf.js__ID__L28",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_debug-protection_05_codenet_p00007_1.obf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 28,
+    "params": 0,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "f2ffc0da"
+}

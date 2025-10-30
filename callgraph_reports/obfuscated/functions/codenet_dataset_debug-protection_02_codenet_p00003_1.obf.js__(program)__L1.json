@@ -1,0 +1,203 @@
+{
+  "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.obf.js__(program)__L1",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_debug-protection_02_codenet_p00003_1.obf.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 6,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "expr",
+      "callType": "indirect"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x1200b9",
+      "callType": "direct"
+    },
+    {
+      "kind": "new",
+      "callee": "id:RegExp",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:RegExp",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x52afd3",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:result",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:a0_0x52afd3",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "new",
+      "callee": "id:Number",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "new",
+      "callee": "id:Number",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:Number",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:Number",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:Number",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:Number",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:Number",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:debuggerProtection",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "id:debuggerProtection",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "54235c62"
+}

@@ -1,0 +1,88 @@
+{
+  "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(anonymous)__L4",
+  "meta": {
+    "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 4,
+    "params": 1,
+    "stmtCount": 4,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "new",
+      "callee": "id:ID",
+      "callType": "constructor"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:ID",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "f6405998"
+}

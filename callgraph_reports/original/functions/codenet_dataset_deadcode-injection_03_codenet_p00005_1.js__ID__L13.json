@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__ID__L13",
+  "meta": {
+    "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 13,
+    "params": 2,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "e738a2a4"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.deobf.js__ID__L16",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.deobf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 16,
+    "params": 2,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "e80475e7"
+}

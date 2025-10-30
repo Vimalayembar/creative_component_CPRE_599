@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.deobf.js__ID__L9",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.deobf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 9,
+    "params": 2,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "58b231dc"
+}

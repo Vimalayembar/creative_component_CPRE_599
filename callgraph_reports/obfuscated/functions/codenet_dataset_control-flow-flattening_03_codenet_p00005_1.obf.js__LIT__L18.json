@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.obf.js__LIT__L18",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.obf.js",
+    "name": "LIT",
+    "normName": "LIT",
+    "startLine": 18,
+    "params": 2,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "4b848c1c"
+}

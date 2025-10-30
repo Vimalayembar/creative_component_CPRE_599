@@ -1,0 +1,53 @@
+{
+  "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.obf.js__ID__L55",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_debug-protection_03_codenet_p00005_1.obf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 55,
+    "params": 1,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:[expr]",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "4c0785a7"
+}

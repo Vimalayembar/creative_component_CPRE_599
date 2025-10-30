@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__(anonymous)__L16",
+  "meta": {
+    "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 16,
+    "params": 1,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "528b85ff"
+}

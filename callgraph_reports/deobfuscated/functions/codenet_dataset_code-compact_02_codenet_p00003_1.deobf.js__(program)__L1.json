@@ -1,0 +1,73 @@
+{
+  "id": "codenet_dataset_code-compact_02_codenet_p00003_1.deobf.js__(program)__L1",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_code-compact_02_codenet_p00003_1.deobf.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:resume",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:setEncoding",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:on",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:toString",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:split",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:shift",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:map",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:split",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:sort",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:log",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:log",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "b0e4bf77"
+}

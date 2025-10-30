@@ -1,0 +1,23 @@
+{
+  "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__(anonymous)__L19",
+  "meta": {
+    "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 19,
+    "params": 0,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "52e9543c"
+}

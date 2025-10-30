@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.obf.js__(anonymous)__L51",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_debug-protection_05_codenet_p00007_1.obf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 51,
+    "params": 0,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "d4067e69"
+}

@@ -6,7 +6,10 @@
   "scripts": {
     "cfg": "node cfg_tool.js",
     "cfg:build": "node cfg_tool.js build",
-    "cfg:compare": "node cfg_tool.js compare"
+    "cfg:compare": "node cfg_tool.js compare",
+    "cg": "node callgraph_tool.js",
+    "cg:build": "node callgraph_tool.js build",
+    "cg:compare": "node callgraph_tool.js compare"
   },
   "dependencies": {
     "escodegen": "^2.1.0",

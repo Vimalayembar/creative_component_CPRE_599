@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_code-compact_02_codenet_p00003_1.obf.js__(anonymous)__L1",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_code-compact_02_codenet_p00003_1.obf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 1,
+    "params": 2,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "02337eb0"
+}

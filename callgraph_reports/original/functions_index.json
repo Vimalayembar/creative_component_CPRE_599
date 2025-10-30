@@ -1,0 +1,4820 @@
+[
+  {
+    "key": "C77-0_01_codenet_p00002_1.js::(anonymous)",
+    "fn": {
+      "id": "C77-0_01_codenet_p00002_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\C77-0_01_codenet_p00002_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "df75ffef"
+    }
+  },
+  {
+    "key": "C77-0_01_codenet_p00002_1.js::(program)",
+    "fn": {
+      "id": "C77-0_01_codenet_p00002_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\C77-0_01_codenet_p00002_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:map",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "8e20e03a"
+    }
+  },
+  {
+    "key": "C77-0_01_codenet_p00002_1.js::ID",
+    "fn": {
+      "id": "C77-0_01_codenet_p00002_1.js__ID__L6",
+      "meta": {
+        "file": "original\\C77-0_01_codenet_p00002_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "40e69b2b"
+    }
+  },
+  {
+    "key": "C77-0_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "C77-0_02_codenet_p00003_1.js__(anonymous)__L14",
+      "meta": {
+        "file": "original\\C77-0_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 14,
+        "params": 2,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "7c4c0dfb"
+    }
+  },
+  {
+    "key": "C77-0_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "C77-0_02_codenet_p00003_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\C77-0_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "f6405998"
+    }
+  },
+  {
+    "key": "C77-0_02_codenet_p00003_1.js::(program)",
+    "fn": {
+      "id": "C77-0_02_codenet_p00003_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\C77-0_02_codenet_p00003_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:shift",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:sort",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "705b0a21"
+    }
+  },
+  {
+    "key": "C77-0_03_codenet_p00005_1.js::(anonymous)",
+    "fn": {
+      "id": "C77-0_03_codenet_p00005_1.js__(anonymous)__L7",
+      "meta": {
+        "file": "original\\C77-0_03_codenet_p00005_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 7,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "5f23038c"
+    }
+  },
+  {
+    "key": "C77-0_03_codenet_p00005_1.js::(program)",
+    "fn": {
+      "id": "C77-0_03_codenet_p00005_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\C77-0_03_codenet_p00005_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:forEach",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:lcm",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "237310db"
+    }
+  },
+  {
+    "key": "C77-0_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "C77-0_03_codenet_p00005_1.js__ID__L13",
+      "meta": {
+        "file": "original\\C77-0_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 13,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "e738a2a4"
+    }
+  },
+  {
+    "key": "C77-0_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "C77-0_03_codenet_p00005_1.js__ID__L26",
+      "meta": {
+        "file": "original\\C77-0_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 26,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "14c9584f"
+    }
+  },
+  {
+    "key": "C77-0_04_codenet_p00006_1.js::(program)",
+    "fn": {
+      "id": "C77-0_04_codenet_p00006_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\C77-0_04_codenet_p00006_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:reverse",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:reverse",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "2ce85611"
+    }
+  },
+  {
+    "key": "C77-0_04_codenet_p00006_1.js::ID",
+    "fn": {
+      "id": "C77-0_04_codenet_p00006_1.js__ID__L6",
+      "meta": {
+        "file": "original\\C77-0_04_codenet_p00006_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "d9b2b5f0"
+    }
+  },
+  {
+    "key": "C77-0_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "C77-0_05_codenet_p00007_1.js__(anonymous)__L16",
+      "meta": {
+        "file": "original\\C77-0_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 16,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "528b85ff"
+    }
+  },
+  {
+    "key": "C77-0_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "C77-0_05_codenet_p00007_1.js__(anonymous)__L19",
+      "meta": {
+        "file": "original\\C77-0_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 19,
+        "params": 0,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "52e9543c"
+    }
+  },
+  {
+    "key": "C77-0_05_codenet_p00007_1.js::(program)",
+    "fn": {
+      "id": "C77-0_05_codenet_p00007_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\C77-0_05_codenet_p00007_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 6,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ceil",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:main",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "f723cf1c"
+    }
+  },
+  {
+    "key": "C77-0_05_codenet_p00007_1.js::ID",
+    "fn": {
+      "id": "C77-0_05_codenet_p00007_1.js__ID__L1",
+      "meta": {
+        "file": "original\\C77-0_05_codenet_p00007_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "76da55ea"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_01_codenet_p00002_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_01_codenet_p00002_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_01_codenet_p00002_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "df75ffef"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_01_codenet_p00002_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_01_codenet_p00002_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_01_codenet_p00002_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:map",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "8e20e03a"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_01_codenet_p00002_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_code-compact_01_codenet_p00002_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_01_codenet_p00002_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "40e69b2b"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_02_codenet_p00003_1.js__(anonymous)__L14",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 14,
+        "params": 2,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "7c4c0dfb"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_02_codenet_p00003_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "f6405998"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_02_codenet_p00003_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_02_codenet_p00003_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_02_codenet_p00003_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:shift",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:sort",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "705b0a21"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_03_codenet_p00005_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__(anonymous)__L7",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 7,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "5f23038c"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_03_codenet_p00005_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:forEach",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:lcm",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "237310db"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__ID__L13",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 13,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "e738a2a4"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__ID__L26",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 26,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "14c9584f"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_04_codenet_p00006_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_04_codenet_p00006_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_04_codenet_p00006_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:reverse",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:reverse",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "2ce85611"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_04_codenet_p00006_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_code-compact_04_codenet_p00006_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_04_codenet_p00006_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "d9b2b5f0"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__(anonymous)__L16",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 16,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "528b85ff"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__(anonymous)__L19",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 19,
+        "params": 0,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "52e9543c"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_05_codenet_p00007_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 6,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ceil",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:main",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "f723cf1c"
+    }
+  },
+  {
+    "key": "codenet_dataset_code-compact_05_codenet_p00007_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__ID__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "76da55ea"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "df75ffef"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:map",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "8e20e03a"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "40e69b2b"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js__(anonymous)__L14",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 14,
+        "params": 2,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "7c4c0dfb"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "f6405998"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:shift",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:sort",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "705b0a21"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__(anonymous)__L7",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 7,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "5f23038c"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:forEach",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:lcm",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "237310db"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__ID__L13",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 13,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "e738a2a4"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__ID__L26",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 26,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "14c9584f"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:reverse",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:reverse",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "2ce85611"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "d9b2b5f0"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__(anonymous)__L16",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 16,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "528b85ff"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__(anonymous)__L19",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 19,
+        "params": 0,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "52e9543c"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 6,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ceil",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:main",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "f723cf1c"
+    }
+  },
+  {
+    "key": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__ID__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "76da55ea"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "df75ffef"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:map",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "8e20e03a"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "40e69b2b"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(anonymous)__L14",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 14,
+        "params": 2,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "7c4c0dfb"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "f6405998"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:shift",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:sort",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "705b0a21"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__(anonymous)__L7",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 7,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "5f23038c"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:forEach",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:lcm",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "237310db"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__ID__L13",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 13,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "e738a2a4"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__ID__L26",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 26,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "14c9584f"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:reverse",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:reverse",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "2ce85611"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "d9b2b5f0"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__(anonymous)__L16",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 16,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "528b85ff"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__(anonymous)__L19",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 19,
+        "params": 0,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "52e9543c"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 6,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ceil",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:main",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "f723cf1c"
+    }
+  },
+  {
+    "key": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__ID__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "76da55ea"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_01_codenet_p00002_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_01_codenet_p00002_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "df75ffef"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_01_codenet_p00002_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_01_codenet_p00002_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:map",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "8e20e03a"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_01_codenet_p00002_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_01_codenet_p00002_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "40e69b2b"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.js__(anonymous)__L14",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 14,
+        "params": 2,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "7c4c0dfb"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "f6405998"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_02_codenet_p00003_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_02_codenet_p00003_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:shift",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:sort",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "705b0a21"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_03_codenet_p00005_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__(anonymous)__L7",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 7,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "5f23038c"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_03_codenet_p00005_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:forEach",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:lcm",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "237310db"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__ID__L13",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 13,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "e738a2a4"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__ID__L26",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 26,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "14c9584f"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_04_codenet_p00006_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_04_codenet_p00006_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_04_codenet_p00006_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:reverse",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:reverse",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "2ce85611"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_04_codenet_p00006_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_04_codenet_p00006_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_04_codenet_p00006_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "d9b2b5f0"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__(anonymous)__L16",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 16,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "528b85ff"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__(anonymous)__L19",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 19,
+        "params": 0,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "52e9543c"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_05_codenet_p00007_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 6,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ceil",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:main",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "f723cf1c"
+    }
+  },
+  {
+    "key": "codenet_dataset_debug-protection_05_codenet_p00007_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__ID__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "76da55ea"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_01_codenet_p00002_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_01_codenet_p00002_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_01_codenet_p00002_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "df75ffef"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_01_codenet_p00002_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_01_codenet_p00002_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_01_codenet_p00002_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:parseInt",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:map",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "8e20e03a"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_01_codenet_p00002_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_self-defending_01_codenet_p00002_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_01_codenet_p00002_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "40e69b2b"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_02_codenet_p00003_1.js__(anonymous)__L14",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 14,
+        "params": 2,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "7c4c0dfb"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_02_codenet_p00003_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_02_codenet_p00003_1.js__(anonymous)__L4",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_02_codenet_p00003_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 4,
+        "params": 1,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:ID",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "f6405998"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_02_codenet_p00003_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_02_codenet_p00003_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_02_codenet_p00003_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:toString",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:shift",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:sort",
+          "callType": "method"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "new",
+          "callee": "id:Number",
+          "callType": "constructor"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "705b0a21"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_03_codenet_p00005_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__(anonymous)__L7",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 7,
+        "params": 1,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "5f23038c"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_03_codenet_p00005_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:forEach",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:lcm",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "id:gcd",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "237310db"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__ID__L13",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 13,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "e738a2a4"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_03_codenet_p00005_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__ID__L26",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 26,
+        "params": 2,
+        "stmtCount": 2,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "14c9584f"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_04_codenet_p00006_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_04_codenet_p00006_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_04_codenet_p00006_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 4,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:readFileSync",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:require",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:reverse",
+          "callType": "direct"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:join",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:reverse",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:split",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "2ce85611"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_04_codenet_p00006_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_self-defending_04_codenet_p00006_1.js__ID__L6",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_04_codenet_p00006_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 6,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "d9b2b5f0"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__(anonymous)__L16",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 16,
+        "params": 1,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [],
+      "bodyHash": "528b85ff"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_05_codenet_p00007_1.js::(anonymous)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__(anonymous)__L19",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+        "name": "(anonymous)",
+        "normName": "(anonymous)",
+        "startLine": 19,
+        "params": 0,
+        "stmtCount": 1,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "id:ID",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "52e9543c"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_05_codenet_p00007_1.js::(program)",
+    "fn": {
+      "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__(program)__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+        "name": "(program)",
+        "normName": "(program)",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 6,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:trim",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ceil",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:log",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:resume",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:setEncoding",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:on",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "id:main",
+          "callType": "direct"
+        }
+      ],
+      "bodyHash": "f723cf1c"
+    }
+  },
+  {
+    "key": "codenet_dataset_self-defending_05_codenet_p00007_1.js::ID",
+    "fn": {
+      "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__ID__L1",
+      "meta": {
+        "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+        "name": "ID",
+        "normName": "ID",
+        "startLine": 1,
+        "params": 0,
+        "stmtCount": 3,
+        "flags": {
+          "eval": false,
+          "newFunction": false
+        }
+      },
+      "calls": [
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        },
+        {
+          "kind": "call",
+          "callee": "prop:ID",
+          "callType": "method"
+        }
+      ],
+      "bodyHash": "76da55ea"
+    }
+  }
+]

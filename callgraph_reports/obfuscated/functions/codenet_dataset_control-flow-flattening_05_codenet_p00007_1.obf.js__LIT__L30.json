@@ -1,0 +1,23 @@
+{
+  "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js__LIT__L30",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js",
+    "name": "LIT",
+    "normName": "LIT",
+    "startLine": 30,
+    "params": 1,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "cced5d08"
+}

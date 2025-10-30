@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_self-defending_03_codenet_p00005_1.deobf.js__ID__L10",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_self-defending_03_codenet_p00005_1.deobf.js",
+    "name": "ID",
+    "normName": "ID",
+    "startLine": 10,
+    "params": 2,
+    "stmtCount": 2,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "c69f887f"
+}

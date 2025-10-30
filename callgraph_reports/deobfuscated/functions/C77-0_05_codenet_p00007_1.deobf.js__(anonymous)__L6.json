@@ -1,0 +1,17 @@
+{
+  "id": "C77-0_05_codenet_p00007_1.deobf.js__(anonymous)__L6",
+  "meta": {
+    "file": "deobfuscated\\C77-0_05_codenet_p00007_1.deobf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 6,
+    "params": 1,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "7ac0a67e"
+}

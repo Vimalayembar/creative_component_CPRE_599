@@ -1,0 +1,58 @@
+{
+  "id": "codenet_dataset_debug-protection_04_codenet_p00006_1.js__(program)__L1",
+  "meta": {
+    "file": "original\\codenet_dataset_debug-protection_04_codenet_p00006_1.js",
+    "name": "(program)",
+    "normName": "(program)",
+    "startLine": 1,
+    "params": 0,
+    "stmtCount": 4,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "prop:readFileSync",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:require",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:trim",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:log",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "id:reverse",
+      "callType": "direct"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:join",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:reverse",
+      "callType": "method"
+    },
+    {
+      "kind": "call",
+      "callee": "prop:split",
+      "callType": "method"
+    }
+  ],
+  "bodyHash": "2ce85611"
+}

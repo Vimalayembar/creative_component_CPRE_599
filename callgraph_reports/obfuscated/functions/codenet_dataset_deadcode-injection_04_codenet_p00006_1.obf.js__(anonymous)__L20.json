@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.obf.js__(anonymous)__L20",
+  "meta": {
+    "file": "obfuscated\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.obf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 20,
+    "params": 2,
+    "stmtCount": 3,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "5b379227"
+}

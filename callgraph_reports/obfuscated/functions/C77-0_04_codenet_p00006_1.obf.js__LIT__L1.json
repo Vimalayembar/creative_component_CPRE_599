@@ -1,0 +1,23 @@
+{
+  "id": "C77-0_04_codenet_p00006_1.obf.js__LIT__L1",
+  "meta": {
+    "file": "obfuscated\\C77-0_04_codenet_p00006_1.obf.js",
+    "name": "LIT",
+    "normName": "LIT",
+    "startLine": 1,
+    "params": 1,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [
+    {
+      "kind": "call",
+      "callee": "id:ID",
+      "callType": "direct"
+    }
+  ],
+  "bodyHash": "c73ec842"
+}

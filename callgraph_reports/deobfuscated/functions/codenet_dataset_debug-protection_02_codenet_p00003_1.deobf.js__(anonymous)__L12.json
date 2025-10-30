@@ -1,0 +1,17 @@
+{
+  "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.deobf.js__(anonymous)__L12",
+  "meta": {
+    "file": "deobfuscated\\codenet_dataset_debug-protection_02_codenet_p00003_1.deobf.js",
+    "name": "(anonymous)",
+    "normName": "(anonymous)",
+    "startLine": 12,
+    "params": 2,
+    "stmtCount": 1,
+    "flags": {
+      "eval": false,
+      "newFunction": false
+    }
+  },
+  "calls": [],
+  "bodyHash": "e509ddd1"
+}
