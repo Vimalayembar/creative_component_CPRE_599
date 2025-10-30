@@ -1,0 +1,49 @@
+{
+  "functionName": "(anonymous)",
+  "params": 1,
+  "startLine": 4,
+  "file": "original\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "OTHER"
+    },
+    {
+      "id": "n3",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 6,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 6
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 2,
+      "ASSIGN": 1,
+      "EMPTY": 1
+    },
+    "wlHash": "422a9969"
+  }
+}

@@ -1,0 +1,2300 @@
+[
+  {
+    "id": "C77-0_01_codenet_p00002_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\C77-0_01_codenet_p00002_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "C77-0_01_codenet_p00002_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\C77-0_01_codenet_p00002_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "422a9969"
+    }
+  },
+  {
+    "id": "C77-0_01_codenet_p00002_1.js__digit__L6",
+    "meta": {
+      "file": "original\\C77-0_01_codenet_p00002_1.js",
+      "name": "digit",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 2,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "e0714063"
+    }
+  },
+  {
+    "id": "C77-0_02_codenet_p00003_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\C77-0_02_codenet_p00003_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "C77-0_02_codenet_p00003_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\C77-0_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 19,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 19
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 7,
+        "COND": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "3f8fa607"
+    }
+  },
+  {
+    "id": "C77-0_02_codenet_p00003_1.js__(anonymous)__L14",
+    "meta": {
+      "file": "original\\C77-0_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 14,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "RET": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "ff80fc33"
+    }
+  },
+  {
+    "id": "C77-0_03_codenet_p00005_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\C77-0_03_codenet_p00005_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "e8b410ef"
+    }
+  },
+  {
+    "id": "C77-0_03_codenet_p00005_1.js__(anonymous)__L7",
+    "meta": {
+      "file": "original\\C77-0_03_codenet_p00005_1.js",
+      "name": "(anonymous)",
+      "startLine": 7,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "C77-0_03_codenet_p00005_1.js__gcd__L13",
+    "meta": {
+      "file": "original\\C77-0_03_codenet_p00005_1.js",
+      "name": "gcd",
+      "startLine": 13,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 13,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 13
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 1,
+        "RET": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "b8bfdbc9"
+    }
+  },
+  {
+    "id": "C77-0_03_codenet_p00005_1.js__lcm__L26",
+    "meta": {
+      "file": "original\\C77-0_03_codenet_p00005_1.js",
+      "name": "lcm",
+      "startLine": 26,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "601a3d0d"
+    }
+  },
+  {
+    "id": "C77-0_04_codenet_p00006_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\C77-0_04_codenet_p00006_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "C77-0_04_codenet_p00006_1.js__reverse__L6",
+    "meta": {
+      "file": "original\\C77-0_04_codenet_p00006_1.js",
+      "name": "reverse",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "2339293b"
+    }
+  },
+  {
+    "id": "C77-0_05_codenet_p00007_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\C77-0_05_codenet_p00007_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "b6ced421"
+    }
+  },
+  {
+    "id": "C77-0_05_codenet_p00007_1.js__main__L1",
+    "meta": {
+      "file": "original\\C77-0_05_codenet_p00007_1.js",
+      "name": "main",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 10,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 10
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "f3436f67"
+    }
+  },
+  {
+    "id": "C77-0_05_codenet_p00007_1.js__(anonymous)__L16",
+    "meta": {
+      "file": "original\\C77-0_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 16,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "C77-0_05_codenet_p00007_1.js__(anonymous)__L19",
+    "meta": {
+      "file": "original\\C77-0_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 19,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_01_codenet_p00002_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_01_codenet_p00002_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_01_codenet_p00002_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_01_codenet_p00002_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "422a9969"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_01_codenet_p00002_1.js__digit__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_01_codenet_p00002_1.js",
+      "name": "digit",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 2,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "e0714063"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_02_codenet_p00003_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_02_codenet_p00003_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_02_codenet_p00003_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 19,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 19
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 7,
+        "COND": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "3f8fa607"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_02_codenet_p00003_1.js__(anonymous)__L14",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 14,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "RET": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "ff80fc33"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "e8b410ef"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__(anonymous)__L7",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+      "name": "(anonymous)",
+      "startLine": 7,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__gcd__L13",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+      "name": "gcd",
+      "startLine": 13,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 13,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 13
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 1,
+        "RET": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "b8bfdbc9"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_03_codenet_p00005_1.js__lcm__L26",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_03_codenet_p00005_1.js",
+      "name": "lcm",
+      "startLine": 26,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "601a3d0d"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_04_codenet_p00006_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_04_codenet_p00006_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_04_codenet_p00006_1.js__reverse__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_04_codenet_p00006_1.js",
+      "name": "reverse",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "2339293b"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "b6ced421"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__main__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+      "name": "main",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 10,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 10
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "f3436f67"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__(anonymous)__L16",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 16,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_code-compact_05_codenet_p00007_1.js__(anonymous)__L19",
+    "meta": {
+      "file": "original\\codenet_dataset_code-compact_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 19,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "422a9969"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js__digit__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.js",
+      "name": "digit",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 2,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "e0714063"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 19,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 19
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 7,
+        "COND": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "3f8fa607"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js__(anonymous)__L14",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 14,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "RET": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "ff80fc33"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "e8b410ef"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__(anonymous)__L7",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+      "name": "(anonymous)",
+      "startLine": 7,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__gcd__L13",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+      "name": "gcd",
+      "startLine": 13,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 13,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 13
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 1,
+        "RET": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "b8bfdbc9"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js__lcm__L26",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.js",
+      "name": "lcm",
+      "startLine": 26,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "601a3d0d"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js__reverse__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_04_codenet_p00006_1.js",
+      "name": "reverse",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "2339293b"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "b6ced421"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__main__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+      "name": "main",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 10,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 10
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "f3436f67"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__(anonymous)__L16",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 16,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js__(anonymous)__L19",
+    "meta": {
+      "file": "original\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 19,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "422a9969"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.js__digit__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.js",
+      "name": "digit",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 2,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "e0714063"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 19,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 19
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 7,
+        "COND": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "3f8fa607"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_02_codenet_p00003_1.js__(anonymous)__L14",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 14,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "RET": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "ff80fc33"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "e8b410ef"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__(anonymous)__L7",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+      "name": "(anonymous)",
+      "startLine": 7,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__gcd__L13",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+      "name": "gcd",
+      "startLine": 13,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 13,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 13
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 1,
+        "RET": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "b8bfdbc9"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.js__lcm__L26",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.js",
+      "name": "lcm",
+      "startLine": 26,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "601a3d0d"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.js__reverse__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.js",
+      "name": "reverse",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "2339293b"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "b6ced421"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__main__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+      "name": "main",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 10,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 10
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "f3436f67"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__(anonymous)__L16",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 16,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.js__(anonymous)__L19",
+    "meta": {
+      "file": "original\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 19,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_01_codenet_p00002_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_01_codenet_p00002_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "422a9969"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.js__digit__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_01_codenet_p00002_1.js",
+      "name": "digit",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 2,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "e0714063"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_02_codenet_p00003_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 19,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 19
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 7,
+        "COND": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "3f8fa607"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_02_codenet_p00003_1.js__(anonymous)__L14",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 14,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "RET": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "ff80fc33"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "e8b410ef"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__(anonymous)__L7",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+      "name": "(anonymous)",
+      "startLine": 7,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__gcd__L13",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+      "name": "gcd",
+      "startLine": 13,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 13,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 13
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 1,
+        "RET": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "b8bfdbc9"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.js__lcm__L26",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_03_codenet_p00005_1.js",
+      "name": "lcm",
+      "startLine": 26,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "601a3d0d"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_04_codenet_p00006_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_04_codenet_p00006_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_04_codenet_p00006_1.js__reverse__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_04_codenet_p00006_1.js",
+      "name": "reverse",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "2339293b"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "b6ced421"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__main__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+      "name": "main",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 10,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 10
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "f3436f67"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__(anonymous)__L16",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 16,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.js__(anonymous)__L19",
+    "meta": {
+      "file": "original\\codenet_dataset_debug-protection_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 19,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_01_codenet_p00002_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_01_codenet_p00002_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_01_codenet_p00002_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_01_codenet_p00002_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "422a9969"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_01_codenet_p00002_1.js__digit__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_01_codenet_p00002_1.js",
+      "name": "digit",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 2,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "e0714063"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_02_codenet_p00003_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_02_codenet_p00003_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 4,
+        "EMPTY": 1
+      },
+      "wlHash": "03b647b7"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_02_codenet_p00003_1.js__(anonymous)__L4",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 4,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 19,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 19
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 7,
+        "COND": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "3f8fa607"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_02_codenet_p00003_1.js__(anonymous)__L14",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_02_codenet_p00003_1.js",
+      "name": "(anonymous)",
+      "startLine": 14,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "RET": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "ff80fc33"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 3,
+        "EMPTY": 1
+      },
+      "wlHash": "e8b410ef"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__(anonymous)__L7",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+      "name": "(anonymous)",
+      "startLine": 7,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__gcd__L13",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+      "name": "gcd",
+      "startLine": 13,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 13,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 13
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 7,
+        "ASSIGN": 1,
+        "RET": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "b8bfdbc9"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_03_codenet_p00005_1.js__lcm__L26",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_03_codenet_p00005_1.js",
+      "name": "lcm",
+      "startLine": 26,
+      "params": 2
+    },
+    "fingerprint": {
+      "nodeCount": 6,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 6
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "ASSIGN": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "601a3d0d"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_04_codenet_p00006_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_04_codenet_p00006_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 7,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 7
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "a558300f"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_04_codenet_p00006_1.js__reverse__L6",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_04_codenet_p00006_1.js",
+      "name": "reverse",
+      "startLine": 6,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 1,
+        "RET": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "2339293b"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__(program)__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+      "name": "(program)",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 9,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 9
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 1,
+        "EMPTY": 1
+      },
+      "wlHash": "b6ced421"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__main__L1",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+      "name": "main",
+      "startLine": 1,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 10,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 10
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 5,
+        "ASSIGN": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "f3436f67"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__(anonymous)__L16",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 16,
+      "params": 1
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  },
+  {
+    "id": "codenet_dataset_self-defending_05_codenet_p00007_1.js__(anonymous)__L19",
+    "meta": {
+      "file": "original\\codenet_dataset_self-defending_05_codenet_p00007_1.js",
+      "name": "(anonymous)",
+      "startLine": 19,
+      "params": 0
+    },
+    "fingerprint": {
+      "nodeCount": 5,
+      "edgeCount": 0,
+      "degreeHistogram": {
+        "0": 5
+      },
+      "labelCounts": {
+        "ENTRY": 1,
+        "EXIT": 1,
+        "OTHER": 2,
+        "EMPTY": 1
+      },
+      "wlHash": "e3085067"
+    }
+  }
+]

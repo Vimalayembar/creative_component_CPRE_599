@@ -1,0 +1,69 @@
+{
+  "functionName": "gcd",
+  "params": 2,
+  "startLine": 9,
+  "file": "deobfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.deobf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "OTHER"
+    },
+    {
+      "id": "n2",
+      "label": "OTHER"
+    },
+    {
+      "id": "n3",
+      "label": "OTHER"
+    },
+    {
+      "id": "n4",
+      "label": "OTHER"
+    },
+    {
+      "id": "n5",
+      "label": "RET"
+    },
+    {
+      "id": "n6",
+      "label": "OTHER"
+    },
+    {
+      "id": "n7",
+      "label": "RET"
+    },
+    {
+      "id": "n8",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 11,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 11
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 6,
+      "RET": 2,
+      "EMPTY": 1
+    },
+    "wlHash": "0e217dcf"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "functionName": "lcm",
+  "params": 2,
+  "startLine": 40,
+  "file": "obfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n3",
+      "label": "RET"
+    },
+    {
+      "id": "n4",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 7,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 7
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 1,
+      "ASSIGN": 2,
+      "RET": 1,
+      "EMPTY": 1
+    },
+    "wlHash": "e0714063"
+  }
+}

@@ -1,7 +1,19 @@
 {
+  "name": "js_cfg_tool",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cfg": "node cfg_tool.js",
+    "cfg:build": "node cfg_tool.js build",
+    "cfg:compare": "node cfg_tool.js compare"
+  },
   "dependencies": {
     "escodegen": "^2.1.0",
+    "esgraph": "^0.3.0",
     "esprima": "^4.0.1",
-    "estraverse": "^5.3.0"
+    "estraverse": "^5.3.0",
+    "globby": "^14.0.2",
+    "minimist": "^1.2.8"
   }
 }

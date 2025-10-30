@@ -1,0 +1,45 @@
+{
+  "functionName": "OIXCJ",
+  "params": 2,
+  "startLine": 1,
+  "file": "obfuscated\\C77-0_01_codenet_p00002_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "RET"
+    },
+    {
+      "id": "n2",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 5,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 5
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 1,
+      "RET": 1,
+      "EMPTY": 1
+    },
+    "wlHash": "2339293b"
+  }
+}

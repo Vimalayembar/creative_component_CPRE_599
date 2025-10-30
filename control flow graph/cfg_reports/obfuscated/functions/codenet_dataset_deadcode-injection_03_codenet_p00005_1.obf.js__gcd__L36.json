@@ -1,0 +1,122 @@
+{
+  "functionName": "gcd",
+  "params": 2,
+  "startLine": 36,
+  "file": "obfuscated\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "OTHER"
+    },
+    {
+      "id": "n3",
+      "label": "OTHER"
+    },
+    {
+      "id": "n4",
+      "label": "OTHER"
+    },
+    {
+      "id": "n5",
+      "label": "OTHER"
+    },
+    {
+      "id": "n6",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n7",
+      "label": "OTHER"
+    },
+    {
+      "id": "n8",
+      "label": "OTHER"
+    },
+    {
+      "id": "n9",
+      "label": "OTHER"
+    },
+    {
+      "id": "n10",
+      "label": "RET"
+    },
+    {
+      "id": "n11",
+      "label": "OTHER"
+    },
+    {
+      "id": "n12",
+      "label": "RET"
+    },
+    {
+      "id": "n13",
+      "label": "OTHER"
+    },
+    {
+      "id": "n14",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n15",
+      "label": "OTHER"
+    },
+    {
+      "id": "n16",
+      "label": "OTHER"
+    },
+    {
+      "id": "n17",
+      "label": "OTHER"
+    },
+    {
+      "id": "n18",
+      "label": "RET"
+    },
+    {
+      "id": "n19",
+      "label": "OTHER"
+    },
+    {
+      "id": "n20",
+      "label": "RET"
+    },
+    {
+      "id": "n21",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 24,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 24
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 14,
+      "ASSIGN": 3,
+      "RET": 4,
+      "EMPTY": 1
+    },
+    "wlHash": "5949b0c1"
+  }
+}

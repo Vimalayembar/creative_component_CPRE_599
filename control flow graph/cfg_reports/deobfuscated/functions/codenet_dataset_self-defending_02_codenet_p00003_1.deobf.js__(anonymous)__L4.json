@@ -1,0 +1,54 @@
+{
+  "functionName": "(anonymous)",
+  "params": 1,
+  "startLine": 4,
+  "file": "deobfuscated\\codenet_dataset_self-defending_02_codenet_p00003_1.deobf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "OTHER"
+    },
+    {
+      "id": "n3",
+      "label": "COND"
+    },
+    {
+      "id": "n4",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 7,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 7
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 2,
+      "ASSIGN": 1,
+      "COND": 1,
+      "EMPTY": 1
+    },
+    "wlHash": "b250dc9c"
+  }
+}

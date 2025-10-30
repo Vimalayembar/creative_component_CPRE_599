@@ -1,0 +1,65 @@
+{
+  "functionName": "main",
+  "params": 0,
+  "startLine": 1,
+  "file": "original\\C77-0_05_codenet_p00007_1.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n3",
+      "label": "OTHER"
+    },
+    {
+      "id": "n4",
+      "label": "OTHER"
+    },
+    {
+      "id": "n5",
+      "label": "OTHER"
+    },
+    {
+      "id": "n6",
+      "label": "OTHER"
+    },
+    {
+      "id": "n7",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 10,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 10
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 5,
+      "ASSIGN": 2,
+      "EMPTY": 1
+    },
+    "wlHash": "f3436f67"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "functionName": "(program)",
+  "params": 0,
+  "startLine": 1,
+  "file": "deobfuscated\\C77-0_04_codenet_p00006_1.deobf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n3",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n4",
+      "label": "OTHER"
+    },
+    {
+      "id": "n5",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 8,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 8
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 2,
+      "ASSIGN": 3,
+      "EMPTY": 1
+    },
+    "wlHash": "52eb8bd1"
+  }
+}

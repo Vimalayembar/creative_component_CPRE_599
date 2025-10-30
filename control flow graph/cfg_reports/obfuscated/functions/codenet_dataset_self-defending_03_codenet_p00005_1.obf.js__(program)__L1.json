@@ -1,0 +1,61 @@
+{
+  "functionName": "(program)",
+  "params": 0,
+  "startLine": 1,
+  "file": "obfuscated\\codenet_dataset_self-defending_03_codenet_p00005_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n3",
+      "label": "OTHER"
+    },
+    {
+      "id": "n4",
+      "label": "OTHER"
+    },
+    {
+      "id": "n5",
+      "label": "OTHER"
+    },
+    {
+      "id": "n6",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 9,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 9
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 4,
+      "ASSIGN": 2,
+      "EMPTY": 1
+    },
+    "wlHash": "4a7811df"
+  }
+}

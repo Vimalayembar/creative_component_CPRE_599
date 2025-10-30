@@ -1,0 +1,77 @@
+{
+  "functionName": "(program)",
+  "params": 0,
+  "startLine": 1,
+  "file": "obfuscated\\C77-0_03_codenet_p00005_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "OTHER"
+    },
+    {
+      "id": "n3",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n4",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n5",
+      "label": "OTHER"
+    },
+    {
+      "id": "n6",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n7",
+      "label": "OTHER"
+    },
+    {
+      "id": "n8",
+      "label": "OTHER"
+    },
+    {
+      "id": "n9",
+      "label": "OTHER"
+    },
+    {
+      "id": "n10",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 13,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 13
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 6,
+      "ASSIGN": 4,
+      "EMPTY": 1
+    },
+    "wlHash": "7a9f29b7"
+  }
+}

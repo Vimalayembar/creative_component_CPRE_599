@@ -1,0 +1,58 @@
+{
+  "functionName": "reverse",
+  "params": 1,
+  "startLine": 1,
+  "file": "obfuscated\\codenet_dataset_self-defending_04_codenet_p00006_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n3",
+      "label": "OTHER"
+    },
+    {
+      "id": "n4",
+      "label": "RET"
+    },
+    {
+      "id": "n5",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 8,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 8
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 2,
+      "ASSIGN": 2,
+      "RET": 1,
+      "EMPTY": 1
+    },
+    "wlHash": "7e8e1e8b"
+  }
+}

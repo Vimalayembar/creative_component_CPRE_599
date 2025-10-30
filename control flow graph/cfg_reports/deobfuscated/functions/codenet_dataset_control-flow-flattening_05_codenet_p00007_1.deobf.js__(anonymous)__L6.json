@@ -1,0 +1,44 @@
+{
+  "functionName": "(anonymous)",
+  "params": 1,
+  "startLine": 6,
+  "file": "deobfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "OTHER"
+    },
+    {
+      "id": "n2",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 5,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 5
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 2,
+      "EMPTY": 1
+    },
+    "wlHash": "e3085067"
+  }
+}

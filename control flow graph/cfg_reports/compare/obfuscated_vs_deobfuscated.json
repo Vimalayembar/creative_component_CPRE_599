@@ -1,0 +1,829 @@
+{
+  "label": "obfuscated_vs_deobfuscated",
+  "pairs": [
+    {
+      "a": {
+        "id": "C77-0_01_codenet_p00002_1.obf.js__gQSJj__L1",
+        "name": "gQSJj",
+        "file": "obfuscated\\C77-0_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_02_codenet_p00003_1.deobf.js__(anonymous)__L13",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\C77-0_02_codenet_p00003_1.deobf.js",
+        "startLine": 13
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "C77-0_01_codenet_p00002_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\C77-0_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_01_codenet_p00002_1.deobf.js__processLine__L7",
+        "name": "processLine",
+        "file": "deobfuscated\\C77-0_01_codenet_p00002_1.deobf.js",
+        "startLine": 7
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9356927024046586,
+        "wlSim": 0,
+        "composite": 0.7807078107213976
+      },
+      "score": 0.7807078107213976
+    },
+    {
+      "a": {
+        "id": "C77-0_01_codenet_p00002_1.obf.js__ZJvAy__L1",
+        "name": "ZJvAy",
+        "file": "obfuscated\\C77-0_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_02_codenet_p00003_1.deobf.js__(anonymous)__L15",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\C77-0_02_codenet_p00003_1.deobf.js",
+        "startLine": 15
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "C77-0_01_codenet_p00002_1.obf.js__MVFqo__L1",
+        "name": "MVFqo",
+        "file": "obfuscated\\C77-0_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_04_codenet_p00006_1.deobf.js__reverse__L6",
+        "name": "reverse",
+        "file": "deobfuscated\\C77-0_04_codenet_p00006_1.deobf.js",
+        "startLine": 6
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "C77-0_01_codenet_p00002_1.obf.js__mRnhm__L1",
+        "name": "mRnhm",
+        "file": "obfuscated\\C77-0_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_03_codenet_p00005_1.deobf.js__lcm__L22",
+        "name": "lcm",
+        "file": "deobfuscated\\C77-0_03_codenet_p00005_1.deobf.js",
+        "startLine": 22
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "C77-0_02_codenet_p00003_1.obf.js__cqeTu__L1",
+        "name": "cqeTu",
+        "file": "obfuscated\\C77-0_02_codenet_p00003_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js__lcm__L24",
+        "name": "lcm",
+        "file": "deobfuscated\\codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js",
+        "startLine": 24
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "C77-0_02_codenet_p00003_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\C77-0_02_codenet_p00003_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_01_codenet_p00002_1.deobf.js__digit__L7",
+        "name": "digit",
+        "file": "deobfuscated\\codenet_dataset_code-compact_01_codenet_p00002_1.deobf.js",
+        "startLine": 7
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9356927024046586,
+        "wlSim": 0,
+        "composite": 0.7807078107213976
+      },
+      "score": 0.7807078107213976
+    },
+    {
+      "a": {
+        "id": "C77-0_03_codenet_p00005_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\C77-0_03_codenet_p00005_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.deobf.js__digitSumLength__L7",
+        "name": "digitSumLength",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.deobf.js",
+        "startLine": 7
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9356927024046586,
+        "wlSim": 0,
+        "composite": 0.7807078107213976
+      },
+      "score": 0.7807078107213976
+    },
+    {
+      "a": {
+        "id": "C77-0_03_codenet_p00005_1.obf.js__rOaOL__L1",
+        "name": "rOaOL",
+        "file": "obfuscated\\C77-0_03_codenet_p00005_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.deobf.js__lcm__L20",
+        "name": "lcm",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.deobf.js",
+        "startLine": 20
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "C77-0_05_codenet_p00007_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\C77-0_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9206016138256,
+        "wlSim": 0,
+        "composite": 0.77618048414768
+      },
+      "score": 0.77618048414768
+    },
+    {
+      "a": {
+        "id": "C77-0_05_codenet_p00007_1.obf.js__main__L1",
+        "name": "main",
+        "file": "obfuscated\\C77-0_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_02_codenet_p00003_1.deobf.js__(anonymous)__L8",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_02_codenet_p00003_1.deobf.js",
+        "startLine": 8
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_01_codenet_p00002_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_code-compact_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_01_codenet_p00002_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\C77-0_01_codenet_p00002_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_01_codenet_p00002_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_code-compact_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_01_codenet_p00002_1.deobf.js__(anonymous)__L4",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\C77-0_01_codenet_p00002_1.deobf.js",
+        "startLine": 4
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_02_codenet_p00003_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_code-compact_02_codenet_p00003_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_02_codenet_p00003_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\C77-0_02_codenet_p00003_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_03_codenet_p00005_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_code-compact_03_codenet_p00005_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.deobf.js__(anonymous)__L4",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.deobf.js",
+        "startLine": 4
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_04_codenet_p00006_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_code-compact_04_codenet_p00006_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_04_codenet_p00006_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_04_codenet_p00006_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_05_codenet_p00007_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999999,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_05_codenet_p00007_1.obf.js__main__L1",
+        "name": "main",
+        "file": "obfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_05_codenet_p00007_1.deobf.js__(anonymous)__L8",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\C77-0_05_codenet_p00007_1.deobf.js",
+        "startLine": 8
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_05_codenet_p00007_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js__(anonymous)__L17",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js",
+        "startLine": 17
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_control-flow-flattening_01_codenet_p00002_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_control-flow-flattening_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_01_codenet_p00002_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_01_codenet_p00002_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.obf.js__(anonymous)__L5",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.obf.js",
+        "startLine": 5
+      },
+      "b": {
+        "id": "C77-0_04_codenet_p00006_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\C77-0_04_codenet_p00006_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999999,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js__main__L1",
+        "name": "main",
+        "file": "obfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js__main__L1",
+        "name": "main",
+        "file": "deobfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js__(anonymous)__L25",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js",
+        "startLine": 25
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js__(anonymous)__L21",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_05_codenet_p00007_1.deobf.js",
+        "startLine": 21
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js__(anonymous)__L28",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.obf.js",
+        "startLine": 28
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_01_codenet_p00002_1.deobf.js__(anonymous)__L4",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_01_codenet_p00002_1.deobf.js",
+        "startLine": 4
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_deadcode-injection_01_codenet_p00002_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_deadcode-injection_01_codenet_p00002_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_deadcode-injection_03_codenet_p00005_1.obf.js__(anonymous)__L30",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_deadcode-injection_03_codenet_p00005_1.obf.js",
+        "startLine": 30
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_04_codenet_p00006_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_04_codenet_p00006_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_deadcode-injection_04_codenet_p00006_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_deadcode-injection_04_codenet_p00006_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_self-defending_05_codenet_p00007_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_self-defending_05_codenet_p00007_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.obf.js__main__L11",
+        "name": "main",
+        "file": "obfuscated\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.obf.js",
+        "startLine": 11
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js__main__L14",
+        "name": "main",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js",
+        "startLine": 14
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.obf.js__(anonymous)__L38",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.obf.js",
+        "startLine": 38
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js__(anonymous)__L6",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_05_codenet_p00007_1.deobf.js",
+        "startLine": 6
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999999,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js__(anonymous)__L4",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js",
+        "startLine": 4
+      },
+      "b": {
+        "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.deobf.js__(anonymous)__L12",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_debug-protection_03_codenet_p00005_1.deobf.js",
+        "startLine": 12
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9999999999999998,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js__(anonymous)__L30",
+        "name": "(anonymous)",
+        "file": "obfuscated\\codenet_dataset_debug-protection_01_codenet_p00002_1.obf.js",
+        "startLine": 30
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js__(anonymous)__L8",
+        "name": "(anonymous)",
+        "file": "deobfuscated\\codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js",
+        "startLine": 8
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 1,
+        "wlSim": 1,
+        "composite": 1
+      },
+      "score": 1
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_debug-protection_05_codenet_p00007_1.obf.js__(program)__L1",
+        "name": "(program)",
+        "file": "obfuscated\\codenet_dataset_debug-protection_05_codenet_p00007_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_deadcode-injection_05_codenet_p00007_1.deobf.js__main__L3",
+        "name": "main",
+        "file": "deobfuscated\\codenet_dataset_deadcode-injection_05_codenet_p00007_1.deobf.js",
+        "startLine": 3
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.9940334046894772,
+        "wlSim": 0,
+        "composite": 0.7982100214068432
+      },
+      "score": 0.7982100214068432
+    },
+    {
+      "a": {
+        "id": "C77-0_01_codenet_p00002_1.obf.js___0x4168d9__L1",
+        "name": "_0x4168d9",
+        "file": "obfuscated\\C77-0_01_codenet_p00002_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_03_codenet_p00005_1.deobf.js__gcd__L10",
+        "name": "gcd",
+        "file": "deobfuscated\\C77-0_03_codenet_p00005_1.deobf.js",
+        "startLine": 10
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.992055208267294,
+        "wlSim": 0,
+        "composite": 0.7976165624801882
+      },
+      "score": 0.7976165624801882
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_code-compact_03_codenet_p00005_1.obf.js__gcd__L1",
+        "name": "gcd",
+        "file": "obfuscated\\codenet_dataset_code-compact_03_codenet_p00005_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js__gcd__L13",
+        "name": "gcd",
+        "file": "deobfuscated\\codenet_dataset_code-compact_03_codenet_p00005_1.deobf.js",
+        "startLine": 13
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.992055208267294,
+        "wlSim": 0,
+        "composite": 0.7976165624801882
+      },
+      "score": 0.7976165624801882
+    },
+    {
+      "a": {
+        "id": "codenet_dataset_debug-protection_03_codenet_p00005_1.obf.js__gcd__L37",
+        "name": "gcd",
+        "file": "obfuscated\\codenet_dataset_debug-protection_03_codenet_p00005_1.obf.js",
+        "startLine": 37
+      },
+      "b": {
+        "id": "codenet_dataset_control-flow-flattening_03_codenet_p00005_1.deobf.js__gcd__L9",
+        "name": "gcd",
+        "file": "deobfuscated\\codenet_dataset_control-flow-flattening_03_codenet_p00005_1.deobf.js",
+        "startLine": 9
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.992055208267294,
+        "wlSim": 0,
+        "composite": 0.7976165624801882
+      },
+      "score": 0.7976165624801882
+    },
+    {
+      "a": {
+        "id": "C77-0_04_codenet_p00006_1.obf.js__(anonymous)__L1",
+        "name": "(anonymous)",
+        "file": "obfuscated\\C77-0_04_codenet_p00006_1.obf.js",
+        "startLine": 1
+      },
+      "b": {
+        "id": "C77-0_03_codenet_p00005_1.deobf.js__(program)__L1",
+        "name": "(program)",
+        "file": "deobfuscated\\C77-0_03_codenet_p00005_1.deobf.js",
+        "startLine": 1
+      },
+      "metrics": {
+        "edgeJaccard": 1,
+        "vectorSim": 0.8697311348907113,
+        "wlSim": 0,
+        "composite": 0.7609193404672134
+      },
+      "score": 0.7609193404672134
+    }
+  ],
+  "aggregate": {
+    "matched": 39,
+    "meanComposite": 0.9505200760417049,
+    "pctOver06": 1
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "functionName": "_0x2ad9ea",
+  "params": 1,
+  "startLine": 1,
+  "file": "obfuscated\\C77-0_02_codenet_p00003_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "OTHER"
+    },
+    {
+      "id": "n3",
+      "label": "OTHER"
+    },
+    {
+      "id": "n4",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n5",
+      "label": "OTHER"
+    },
+    {
+      "id": "n6",
+      "label": "RET"
+    },
+    {
+      "id": "n7",
+      "label": "OTHER"
+    },
+    {
+      "id": "n8",
+      "label": "OTHER"
+    },
+    {
+      "id": "n9",
+      "label": "RET"
+    },
+    {
+      "id": "n10",
+      "label": "RET"
+    },
+    {
+      "id": "n11",
+      "label": "OTHER"
+    },
+    {
+      "id": "n12",
+      "label": "OTHER"
+    },
+    {
+      "id": "n13",
+      "label": "OTHER"
+    },
+    {
+      "id": "n14",
+      "label": "OTHER"
+    },
+    {
+      "id": "n15",
+      "label": "OTHER"
+    },
+    {
+      "id": "n16",
+      "label": "OTHER"
+    },
+    {
+      "id": "n17",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 20,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 20
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 12,
+      "ASSIGN": 2,
+      "RET": 3,
+      "EMPTY": 1
+    },
+    "wlHash": "a5e2c1a3"
+  }
+}

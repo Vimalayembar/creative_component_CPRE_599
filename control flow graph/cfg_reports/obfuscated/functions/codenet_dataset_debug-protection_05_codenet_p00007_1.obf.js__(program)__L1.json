@@ -1,0 +1,69 @@
+{
+  "functionName": "(program)",
+  "params": 0,
+  "startLine": 1,
+  "file": "obfuscated\\codenet_dataset_debug-protection_05_codenet_p00007_1.obf.js",
+  "nodes": [
+    {
+      "id": "ENTRY",
+      "label": "ENTRY"
+    },
+    {
+      "id": "EXIT",
+      "label": "EXIT"
+    },
+    {
+      "id": "n0",
+      "label": "OTHER"
+    },
+    {
+      "id": "n1",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n2",
+      "label": "OTHER"
+    },
+    {
+      "id": "n3",
+      "label": "ASSIGN"
+    },
+    {
+      "id": "n4",
+      "label": "OTHER"
+    },
+    {
+      "id": "n5",
+      "label": "OTHER"
+    },
+    {
+      "id": "n6",
+      "label": "OTHER"
+    },
+    {
+      "id": "n7",
+      "label": "OTHER"
+    },
+    {
+      "id": "n8",
+      "label": "EMPTY"
+    }
+  ],
+  "edges": [],
+  "edgeIds": [],
+  "fingerprint": {
+    "nodeCount": 11,
+    "edgeCount": 0,
+    "degreeHistogram": {
+      "0": 11
+    },
+    "labelCounts": {
+      "ENTRY": 1,
+      "EXIT": 1,
+      "OTHER": 6,
+      "ASSIGN": 2,
+      "EMPTY": 1
+    },
+    "wlHash": "a0d683af"
+  }
+}
