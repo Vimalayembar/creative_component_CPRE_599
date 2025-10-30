@@ -1,0 +1,518 @@
+(function () {
+    try {
+        var g = function () {
+            return typeof globalThis !== 'undefined' ? globalThis : typeof global !== 'undefined' ? global : this;
+        }();
+        var __trace = {
+            entries: [],
+            add: function (func, line) {
+                try {
+                    this.entries.push({
+                        function: func,
+                        line: line
+                    });
+                } catch (e) {
+                }
+            },
+            output: function () {
+                try {
+                    if (this.entries && this.entries.length) {
+                        try {
+                            if (typeof process !== 'undefined' && process.stderr && process.stderr.write)
+                                process.stderr.write(JSON.stringify(this.entries) + '\n');
+                        } catch (e) {
+                            console.log(JSON.stringify(this.entries));
+                        }
+                    }
+                } catch (e) {
+                }
+            }
+        };
+        try {
+            Object.defineProperty(g, '__trace', {
+                value: __trace,
+                configurable: true,
+                writable: true,
+                enumerable: false
+            });
+        } catch (e) {
+            g.__trace = __trace;
+        }
+        try {
+            if (typeof process !== 'undefined' && process && process.on)
+                process.on('beforeExit', function () {
+                    __trace.output();
+                });
+        } catch (e) {
+        }
+        try {
+            setTimeout(function () {
+                __trace.output();
+            }, 1000);
+        } catch (e) {
+        }
+        var __genCount = 0;
+        function wrapGeneratedFunction(fn, name) {
+            if (typeof fn !== 'function')
+                return fn;
+            if (fn.__is_traced)
+                return fn;
+            var wrapped = function () {
+                try {
+                    __trace.add(name || 'generated_' + ++__genCount, 0);
+                } catch (e) {
+                }
+                return fn.apply(this, arguments);
+            };
+            try {
+                Object.defineProperty(wrapped, 'name', {
+                    value: name || fn.name || 'generated',
+                    configurable: true
+                });
+            } catch (e) {
+            }
+            try {
+                wrapped.prototype = fn.prototype;
+            } catch (e) {
+            }
+            try {
+                wrapped.__is_traced = true;
+            } catch (e) {
+            }
+            return wrapped;
+        }
+        (function () {
+            try {
+                var OriginalFunction = Function;
+                function TracedFunction() {
+                    var created = OriginalFunction.apply(this, arguments);
+                    try {
+                        return wrapGeneratedFunction(created, 'generated_fn');
+                    } catch (e) {
+                        return created;
+                    }
+                }
+                try {
+                    TracedFunction.prototype = OriginalFunction.prototype;
+                } catch (e) {
+                }
+                try {
+                    Object.defineProperty(g, 'Function', {
+                        value: TracedFunction,
+                        configurable: true,
+                        writable: true,
+                        enumerable: false
+                    });
+                } catch (e) {
+                    g.Function = TracedFunction;
+                }
+            } catch (e) {
+            }
+        }());
+        (function () {
+            try {
+                var origEval = eval;
+                function tracedEval(s) {
+                    try {
+                        __trace.add('eval', 0);
+                    } catch (e) {
+                    }
+                    ;
+                    return origEval(s);
+                }
+                try {
+                    Object.defineProperty(g, 'eval', {
+                        value: tracedEval,
+                        configurable: true,
+                        writable: true,
+                        enumerable: false
+                    });
+                } catch (e) {
+                    g.eval = tracedEval;
+                }
+            } catch (e) {
+            }
+        }());
+        (function () {
+            try {
+                var origSetTimeout = g.setTimeout;
+                if (typeof origSetTimeout === 'function') {
+                    function tracedSetTimeout(cb, t) {
+                        try {
+                            if (typeof cb === 'function')
+                                cb = wrapGeneratedFunction(cb, cb.name || 'timer_callback');
+                        } catch (e) {
+                        }
+                        ;
+                        return origSetTimeout.apply(this, [
+                            cb,
+                            t
+                        ].concat(Array.prototype.slice.call(arguments, 2)));
+                    }
+                    try {
+                        Object.defineProperty(g, 'setTimeout', {
+                            value: tracedSetTimeout,
+                            configurable: true,
+                            writable: true,
+                            enumerable: false
+                        });
+                    } catch (e) {
+                        g.setTimeout = tracedSetTimeout;
+                    }
+                }
+            } catch (e) {
+            }
+            try {
+                var origSetInterval = g.setInterval;
+                if (typeof origSetInterval === 'function') {
+                    function tracedSetInterval(cb, t) {
+                        try {
+                            if (typeof cb === 'function')
+                                cb = wrapGeneratedFunction(cb, cb.name || 'timer_callback');
+                        } catch (e) {
+                        }
+                        ;
+                        return origSetInterval.apply(this, [
+                            cb,
+                            t
+                        ].concat(Array.prototype.slice.call(arguments, 2)));
+                    }
+                    try {
+                        Object.defineProperty(g, 'setInterval', {
+                            value: tracedSetInterval,
+                            configurable: true,
+                            writable: true,
+                            enumerable: false
+                        });
+                    } catch (e) {
+                        g.setInterval = tracedSetInterval;
+                    }
+                }
+            } catch (e) {
+            }
+            try {
+                var origSetImmediate = g.setImmediate;
+                if (typeof origSetImmediate === 'function') {
+                    function tracedSetImmediate(cb) {
+                        try {
+                            if (typeof cb === 'function')
+                                cb = wrapGeneratedFunction(cb, cb.name || 'immediate_callback');
+                        } catch (e) {
+                        }
+                        ;
+                        return origSetImmediate.apply(this, arguments);
+                    }
+                    try {
+                        Object.defineProperty(g, 'setImmediate', {
+                            value: tracedSetImmediate,
+                            configurable: true,
+                            writable: true,
+                            enumerable: false
+                        });
+                    } catch (e) {
+                        g.setImmediate = tracedSetImmediate;
+                    }
+                }
+            } catch (e) {
+            }
+            try {
+                var origQueueMicrotask = g.queueMicrotask;
+                if (typeof origQueueMicrotask === 'function') {
+                    function tracedQueueMicrotask(cb) {
+                        try {
+                            if (typeof cb === 'function')
+                                cb = wrapGeneratedFunction(cb, cb.name || 'microtask_callback');
+                        } catch (e) {
+                        }
+                        ;
+                        return origQueueMicrotask.call(this, cb);
+                    }
+                    try {
+                        Object.defineProperty(g, 'queueMicrotask', {
+                            value: tracedQueueMicrotask,
+                            configurable: true,
+                            writable: true,
+                            enumerable: false
+                        });
+                    } catch (e) {
+                        g.queueMicrotask = tracedQueueMicrotask;
+                    }
+                }
+            } catch (e) {
+            }
+        }());
+        (function () {
+            try {
+                var P = Promise && Promise.prototype;
+                if (P && P.then) {
+                    var origThen = P.then;
+                    function tracedThen() {
+                        var args = Array.prototype.slice.call(arguments);
+                        try {
+                            if (typeof args[0] === 'function')
+                                args[0] = wrapGeneratedFunction(args[0], args[0].name || 'promise_then');
+                        } catch (e) {
+                        }
+                        try {
+                            if (typeof args[1] === 'function')
+                                args[1] = wrapGeneratedFunction(args[1], args[1].name || 'promise_then_rej');
+                        } catch (e) {
+                        }
+                        return origThen.apply(this, args);
+                    }
+                    try {
+                        Object.defineProperty(P, 'then', {
+                            value: tracedThen,
+                            configurable: true,
+                            writable: true,
+                            enumerable: false
+                        });
+                    } catch (e) {
+                        P.then = tracedThen;
+                    }
+                }
+            } catch (e) {
+            }
+            try {
+                if (P && P.catch) {
+                    var origCatch = P.catch;
+                    function tracedCatch() {
+                        var args = Array.prototype.slice.call(arguments);
+                        try {
+                            if (typeof args[0] === 'function')
+                                args[0] = wrapGeneratedFunction(args[0], args[0].name || 'promise_catch');
+                        } catch (e) {
+                        }
+                        return origCatch.apply(this, args);
+                    }
+                    try {
+                        Object.defineProperty(P, 'catch', {
+                            value: tracedCatch,
+                            configurable: true,
+                            writable: true,
+                            enumerable: false
+                        });
+                    } catch (e) {
+                        P.catch = tracedCatch;
+                    }
+                }
+            } catch (e) {
+            }
+            try {
+                if (P && P.finally) {
+                    var origFinally = P.finally;
+                    function tracedFinally() {
+                        var args = Array.prototype.slice.call(arguments);
+                        try {
+                            if (typeof args[0] === 'function')
+                                args[0] = wrapGeneratedFunction(args[0], args[0].name || 'promise_finally');
+                        } catch (e) {
+                        }
+                        return origFinally.apply(this, args);
+                    }
+                    try {
+                        Object.defineProperty(P, 'finally', {
+                            value: tracedFinally,
+                            configurable: true,
+                            writable: true,
+                            enumerable: false
+                        });
+                    } catch (e) {
+                        P.finally = tracedFinally;
+                    }
+                }
+            } catch (e) {
+            }
+        }());
+        (function () {
+            try {
+                var OriginalProxy = Proxy;
+                function TracedProxy(target, handler) {
+                    try {
+                        if (handler && typeof handler === 'object') {
+                            var newHandler = {};
+                            var traps = [
+                                'get',
+                                'set',
+                                'apply',
+                                'construct',
+                                'defineProperty',
+                                'getOwnPropertyDescriptor',
+                                'ownKeys'
+                            ];
+                            traps.forEach(function (t) {
+                                if (typeof handler[t] === 'function') {
+                                    newHandler[t] = function () {
+                                        var fn = handler[t];
+                                        try {
+                                            fn = wrapGeneratedFunction(fn, fn.name || 'proxy_trap_' + t);
+                                        } catch (e) {
+                                        }
+                                        return fn.apply(this, arguments);
+                                    };
+                                } else if (handler[t] !== undefined) {
+                                    newHandler[t] = handler[t];
+                                }
+                            });
+                            for (var k in handler) {
+                                if (!newHandler.hasOwnProperty(k))
+                                    newHandler[k] = handler[k];
+                            }
+                            return new OriginalProxy(target, newHandler);
+                        }
+                    } catch (e) {
+                    }
+                    return new OriginalProxy(target, handler);
+                }
+                try {
+                    Object.defineProperty(g, 'Proxy', {
+                        value: TracedProxy,
+                        configurable: true,
+                        writable: true,
+                        enumerable: false
+                    });
+                } catch (e) {
+                    g.Proxy = TracedProxy;
+                }
+            } catch (e) {
+            }
+        }());
+        function __wrapObjectFunctions(obj, prefix) {
+            try {
+                if (!obj || typeof obj !== 'object')
+                    return;
+                prefix = prefix || '';
+                for (var k in obj) {
+                    try {
+                        if (typeof obj[k] === 'function' && !obj[k].__is_traced) {
+                            obj[k] = wrapGeneratedFunction(obj[k], (prefix ? prefix + '.' : '') + k);
+                        }
+                    } catch (e) {
+                    }
+                }
+            } catch (e) {
+            }
+        }
+        try {
+            Object.defineProperty(g, '__wrapObjectFunctions', {
+                value: __wrapObjectFunctions,
+                configurable: true,
+                writable: true,
+                enumerable: false
+            });
+        } catch (e) {
+            g.__wrapObjectFunctions = __wrapObjectFunctions;
+        }
+    } catch (err) {
+        try {
+            typeof process !== 'undefined' && process.stderr && process.stderr.write && process.stderr.write('');
+        } catch (e) {
+        }
+    }
+}());
+__trace.add('global', 1);
+var a0_0x132bad = function () {
+    __trace.add('anonymous_1', 2);
+    var firstCall = !![];
+    __trace.add('global', 3);
+    return function (context, fn) {
+        __trace.add('anonymous_2', 4);
+        var rfn = firstCall ? function () {
+            __trace.add('anonymous_3', 5);
+            if (fn) {
+                __trace.add('global', 6);
+                var res = fn['apply'](context, arguments);
+                __trace.add('global', 7);
+                fn = null;
+                __trace.add('global', 8);
+                return res;
+            }
+        } : function () {
+            __trace.add('anonymous_4', 10);
+        };
+        __trace.add('global', 12);
+        firstCall = ![];
+        __trace.add('global', 13);
+        return rfn;
+    };
+}();
+__trace.add('global', 16);
+(function () {
+    __trace.add('anonymous_5', 17);
+    a0_0x132bad(this, function () {
+        __trace.add('anonymous_6', 18);
+        var regExp1 = new RegExp('function *\\( *\\)');
+        __trace.add('global', 19);
+        var regExp2 = new RegExp('\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)', 'i');
+        __trace.add('global', 20);
+        var result = a0_0x4a791d('init');
+        __trace.add('global', 21);
+        if (!regExp1['test'](result + 'chain') || !regExp2['test'](result + 'input')) {
+            __trace.add('global', 22);
+            result('0');
+        } else {
+            __trace.add('global', 24);
+            a0_0x4a791d();
+        }
+    })();
+}());
+__trace.add('global', 28);
+process['stdin']['resume']();
+__trace.add('global', 29);
+process['stdin']['setEncoding']('utf8');
+__trace.add('global', 30);
+process['stdin']['on']('data', function (chunk) {
+    __trace.add('anonymous_7', 31);
+    var nums = chunk['trim']()['split']('\n');
+    function digit(e) {
+        __trace.add('digit', 33);
+        var a = e['split'](' ');
+        __trace.add('global', 34);
+        var wa = parseInt(a[0]) + parseInt(a[1]);
+        __trace.add('global', 35);
+        return wa['toString']()['length'];
+    }
+    __trace.add('global', 37);
+    console['log'](nums['map'](digit)['join']('\n'));
+});
+function a0_0x4a791d(ret) {
+    __trace.add('a0_0x4a791d', 40);
+    function debuggerProtection(counter) {
+        __trace.add('debuggerProtection', 41);
+        if (typeof counter === 'string') {
+            __trace.add('global', 42);
+            return function (arg) {
+                __trace.add('anonymous_8', 42);
+            }['constructor']('while (true) {}')['apply']('counter');
+        } else {
+            __trace.add('global', 45);
+            if (('' + counter / counter)['length'] !== 1 || counter % 20 === 0) {
+                __trace.add('global', 46);
+                (function () {
+                    __trace.add('anonymous_9', 47);
+                    return !![];
+                }['constructor']('debu' + 'gger')['call']('action'));
+            } else {
+                __trace.add('global', 50);
+                (function () {
+                    __trace.add('anonymous_10', 51);
+                    return ![];
+                }['constructor']('debu' + 'gger')['apply']('stateObject'));
+            }
+        }
+        __trace.add('global', 55);
+        debuggerProtection(++counter);
+    }
+    __trace.add('global', 57);
+    try {
+        __trace.add('global', 58);
+        if (ret) {
+            __trace.add('global', 59);
+            return debuggerProtection;
+        } else {
+            __trace.add('global', 61);
+            debuggerProtection(0);
+        }
+    } catch (y) {
+    }
+}

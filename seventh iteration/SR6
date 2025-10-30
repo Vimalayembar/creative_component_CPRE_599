@@ -1,0 +1,3 @@
+original_vs_obfuscated: 0.3478
+obfuscated_vs_deobfuscated: 0.3478
+deobfuscated_vs_original: 1.0000
